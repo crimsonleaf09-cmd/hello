@@ -1,0 +1,8 @@
+{
+  "name": "qr-attendance",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QR code check-in / check-out for events, with admin, staff and parent pages",
+  "engines": { "node": ">=22.13" },
+  "scripts": { "start": "node --disable-warning=ExperimentalWarning server.js" }
+}
